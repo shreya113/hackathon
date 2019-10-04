@@ -26,7 +26,7 @@ void main()
  outtextxy(10,170,"2. SIGN IN");
  outtextxy(10,215,"Choose : ");
  gotoxy(19,15);
- cin>>c;
+ cin>>c; //please specify variable's clearly for code clarity
  outtextxy(10,265,"Press ENTER to proceed");
  getch();
  cleardevice();
